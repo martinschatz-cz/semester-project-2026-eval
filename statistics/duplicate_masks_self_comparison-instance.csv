@@ -1,0 +1,17 @@
+student_id,original_filename,Metric,Score
+02,12GRAY_015-cropped,IoU_instance_mean,0.791381575852548
+05,17GRAY_030-cropped,IoU_instance_mean,0.7848294866022472
+07,11GRAY_045-cropped,IoU_instance_mean,0.682588961044052
+09,15GRAY_030-cropped,IoU_instance_mean,0.778266659834191
+02,12GRAY_015-cropped,Precision_instance,0.7647058823529411
+05,17GRAY_030-cropped,Precision_instance,0.5061728395061729
+07,11GRAY_045-cropped,Precision_instance,0.4074074074074074
+09,15GRAY_030-cropped,Precision_instance,0.7285714285714285
+02,12GRAY_015-cropped,Recall_instance,0.7647058823529411
+05,17GRAY_030-cropped,Recall_instance,0.5061728395061729
+07,11GRAY_045-cropped,Recall_instance,0.3793103448275862
+09,15GRAY_030-cropped,Recall_instance,0.7285714285714285
+02,12GRAY_015-cropped,F1_instance,0.7647058823529412
+05,17GRAY_030-cropped,F1_instance,0.5061728395061729
+07,11GRAY_045-cropped,F1_instance,0.39285714285714285
+09,15GRAY_030-cropped,F1_instance,0.7285714285714285
