@@ -1,0 +1,6 @@
+,ICC_Value,CI95_Lower,CI95_Upper
+script_simple,1.0,,
+script_own_sparse,1.0,,
+script_SarDist,0.9787384833451452,0.89,1.0
+manual_count,0.9528031464569032,0.77,1.0
+script_own,0.7690086621751686,0.26,0.98
