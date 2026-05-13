@@ -100,7 +100,7 @@ These instance metrics highlight that while overall mask overlap is reasonable, 
 
 These calibration-image results support the broader mask evaluation: the overall annotation quality is reasonable, but individual images  vary enough that ground truth agreement is not uniformly high. Use the union and 80% agreement masks to identify the most reliable regions, and use per-image metrics to prioritize where annotation guidance or correction is most needed.
 
-## Student-defined Labels vs Label Masks
+## Duplicates - Internal Agreament
 
 This section shows how student annotations compare to the provided label masks. These comparisons are useful for understanding internal agreement and the quality of student-defined boundaries.
 
