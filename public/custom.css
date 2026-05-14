@@ -1,0 +1,24 @@
+/* 1. Eliminate the sidebars */
+aside.sidebar, 
+.sidebar, 
+.bd-sidebar-primary, 
+.bd-sidebar-secondary {
+    display: none !important;
+    width: 0 !important;
+}
+
+/* 2. Redefine the Grid to be one single wide column */
+.article-grid {
+    display: block !important; /* This kills the 3-column layout */
+    max-width: 90% !important;  /* Or 100% if you want it huge */
+    margin: 0 auto !important;
+}
+
+/* 3. Force the content container to fill the space */
+main article, 
+.bd-content, 
+.bd-article-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+}
